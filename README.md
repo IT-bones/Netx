@@ -2,12 +2,14 @@
 How powerfull python is!!
 
  THE NETX MALWARE WRITTEN IN PYTHON
+ -
 
  legal
+ -
  DISCLAIMER: The code provided in this repository is intended for educational and malware analysis purposes only. Any use of this code for illegal or unethical activities is strictly prohibited. The author of this code shall not be held responsible for any misuse or damage resulting from its use.
 
  features
-
+-
  -REPORT LOGS TO EMAIL SERVER
  
  -AUTO DELETE LOGS AFTER EMAIL REPORT
@@ -23,20 +25,20 @@ How powerfull python is!!
  -CUSTOM NAME & ICON
 
  FUTURE FEATURES
-
+ -
  -MORE STLEATH MECHANISM
  
  -TRANSFORM INTO TROJAN
  
  -SPREAD THROUGH USB  DRIVE
- -
+ 
  -MORE PERSISTENCE MECHANISM
  
  -EMBRACE IT & NEVER LIKE TO TALK YOUR PLANS
 
 
  ------------------WHY THIS NETX-MALWARE--------------------------
-
+ -
  I CODED THIS BACK WHEN I WAS KICKED OUT OF SCHOOL BECAUESE OF SCHOOL FEES IT WAS INFURIATED TO ME 
  WATCHING MY PARENT CAN'T AFFORD MY SCHOOL FEES IT MAKE ME ANGRY I RESPONDED THIS I GOT THIS !!!!!
  I SPEND LONG TIME DEVELOPING THIS MALWARE  TRYING TO PAY MY SCHOOL FEES SO IF YOU FIND THIS CODES 
@@ -44,6 +46,7 @@ How powerfull python is!!
  !!!!NEVER UPLAOD THIS CODES OR EXE TO ANY AV.
 
  ----::::::::::DONATION::::::::::----
+ -
  BITCOIN:bc1qpapxql25v8rwh9q3lr8z3tlcps4f6grvdpwq5r
  
  MONERO:43d1F84AZck1cpNxmjwiF7RXbvu8tpdkm15G5HpYkrJuCfPguKFE7PgMaN5sbktEEM6G2FVEKykrmXYe2QF59RwuVJzcRaY
@@ -54,7 +57,7 @@ How powerfull python is!!
 
 
  -------INSTALLATION----------
-
+ -
  -CLONE THIS REPO
  
  -CUSTOM EMAIL & REPORT LIMIT & REPORT LOCATION
@@ -66,11 +69,13 @@ How powerfull python is!!
  -MAKE $$$
 
  --------UNINSTALL------------
+ -
  -REMOVE IN REGISTRY
  
  -KILL IN TASKMANAGER
  
  ----OPTIONAL-----
+ -
  -REMOVE REPORT LOGS FILES
  
  -REMOVE THE EXE FILE
