@@ -9,20 +9,29 @@ How powerfull python is!!
  features
 
  -REPORT LOGS TO EMAIL SERVER
+ 
  -AUTO DELETE LOGS AFTER EMAIL REPORT
+ 
  -CUSTOM REPORT FILES SIZE LIMIT
+ 
  -ADD TO STARTUP THROUGH REGISTRY
+ 
  -CAPTURE SCREENSHOTS , KEYLOGS & CLIPBOARD DATA
+ 
  -OPTIONAL CAPTURE CAM PICS BUT REMOVED FOR STLEATH OPERATING
+ 
  -CUSTOM NAME & ICON
 
  FUTURE FEATURES
 
  -MORE STLEATH MECHANISM
+ 
  -TRANSFORM INTO TROJAN
+ 
  -SPREAD THROUGH USB  DRIVE
  -
  -MORE PERSISTENCE MECHANISM
+ 
  -EMBRACE IT & NEVER LIKE TO TALK YOUR PLANS
 
 
@@ -36,24 +45,34 @@ How powerfull python is!!
 
  ----::::::::::DONATION::::::::::----
  BITCOIN:bc1qpapxql25v8rwh9q3lr8z3tlcps4f6grvdpwq5r
+ 
  MONERO:43d1F84AZck1cpNxmjwiF7RXbvu8tpdkm15G5HpYkrJuCfPguKFE7PgMaN5sbktEEM6G2FVEKykrmXYe2QF59RwuVJzcRaY
+ 
  ETHEREUM:0x989F19A963b1029Da57Ff4391AD227e5Fe321bF3
+ 
  LITECOIN:ltc1qqy8p2rftkgdptsd09kmfq6d8vvr478xr78yzuk
 
 
  -------INSTALLATION----------
 
  -CLONE THIS REPO
+ 
  -CUSTOM EMAIL & REPORT LIMIT & REPORT LOCATION
+ 
  -INSTALL PYINSTALLER
+ 
  -EXE"pyinstaller --onefile --noconsole main.pyw"
+ 
  -MAKE $$$
 
  --------UNINSTALL------------
  -REMOVE IN REGISTRY
+ 
  -KILL IN TASKMANAGER
+ 
  ----OPTIONAL-----
  -REMOVE REPORT LOGS FILES
+ 
  -REMOVE THE EXE FILE
 
  Note: I will not also take any responsibility of someone else's ill act with this program. But I do believe that a real hacker will learn a lot from this.
